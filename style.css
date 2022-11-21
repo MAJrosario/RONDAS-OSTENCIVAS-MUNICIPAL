@@ -1,0 +1,82 @@
+
+
+body{
+    font-size: 100%;
+    background: linear-gradient(to right, #000000 0%, #4d7940 100%);
+    margin-block-end: auto;
+    color: rgb(255, 255, 255);
+}
+.RONDAS OSTENSIVA MUNICIPAL{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-items: center;
+    font-family: "Noto Sans script=latin rev=3";
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: initial;
+    font-size: 40px;
+    color: rgb(228, 222, 222);    
+   
+    }
+
+    
+.ROMU{font-family: "Noto Sans script=latin rev=3";
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: initial;
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+    display: flex;
+    flex-direction: column;
+    
+}
+.cabecalho {
+        display: flex;
+        flex-direction: row-reverse;
+        justify-content: right; 
+        font-stretch: normal;
+        line-height: initial;
+        font-size: 28px;
+        border-top: 0.4px solid rgb(250, 244, 246);
+        border-bottom: 0.4px solid rgb(204, 207, 211);;
+        color: aliceblue;
+        
+}
+.imagem{
+    display: block;
+    margin: 0 auto;
+}
+.para{
+    display: block;
+    margin: 0 auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.rodape{
+    display: block;
+    margin: 0 auto;
+    color: rgb(172, 171, 169);
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 450px;
+    
+    }
+
+.item-botao:hover{ 
+    background-color: rgb(247, 247, 247); 
+    border-radius: 20px;
+    margin: 5px;  
+    color: antiquewhite;
+    margin: 0 auto;
+    
+}
+#botao{
+   
+    justify-content: space-around;
+    color: rgb(14, 14, 12);
+    
+}
