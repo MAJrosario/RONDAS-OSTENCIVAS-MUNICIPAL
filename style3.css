@@ -1,8 +1,6 @@
-
-
 body{
     font-size: 100%;
-    background: linear-gradient(to right, #474242 0%, #6da15d 100%);
+    background: linear-gradient(to right, #000000 0%, #4d7940 100%);
     margin-block-end: auto;
     color: rgb(255, 255, 255);
 }
